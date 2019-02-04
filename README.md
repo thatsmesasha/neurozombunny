@@ -115,6 +115,10 @@ Now you can open created folder “neurozombunny” as Unity Project. Open scene
 
 Spells scripts specific for different spells: Assets/Scripts/Player/Weapons
 
+#### Demo
+
+There is a demo play of the game with random spells located at the root of the git repository called demo. It doesn't have a lot of FPS because its Unity in-editor recorded gameplay, not the actual game.
+
 ## GVR useful information
 
 #### Setup
